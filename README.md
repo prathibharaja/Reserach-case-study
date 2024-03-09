@@ -1,0 +1,1 @@
+This is my research case study of University of trier. I want to take a moment to clarify that the paper shared here has been obtained with the full consent and support of my team. It contains no sensitive information or proprietary secrets, and I did specially, ‘dealing with Categorical data type’ (1.4) and ‘regression models’ (3.3) parts. 
